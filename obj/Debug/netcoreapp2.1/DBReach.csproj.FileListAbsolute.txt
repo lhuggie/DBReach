@@ -1,0 +1,14 @@
+C:\Users\Luke\source\repos\DBReach\DBReach\bin\Debug\netcoreapp2.1\DBReach.deps.json
+C:\Users\Luke\source\repos\DBReach\DBReach\bin\Debug\netcoreapp2.1\DBReach.runtimeconfig.json
+C:\Users\Luke\source\repos\DBReach\DBReach\bin\Debug\netcoreapp2.1\DBReach.runtimeconfig.dev.json
+C:\Users\Luke\source\repos\DBReach\DBReach\bin\Debug\netcoreapp2.1\DBReach.dll
+C:\Users\Luke\source\repos\DBReach\DBReach\bin\Debug\netcoreapp2.1\DBReach.pdb
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.csprojAssemblyReference.cache
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.RazorAssemblyInfo.cache
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.RazorAssemblyInfo.cs
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.AssemblyInfo.cs
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.RazorTargetAssemblyInfo.cache
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.dll
+C:\Users\Luke\source\repos\DBReach\DBReach\obj\Debug\netcoreapp2.1\DBReach.pdb
